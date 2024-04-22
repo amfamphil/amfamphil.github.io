@@ -1,0 +1,32 @@
+title: Phil Brady's Portfolio
+email: PBRADY@amfam.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Welcome to my personal portfolio website where I showcase my projects and share my experiences as a Lead Engineer at AmFam Group.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "amfamphil.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list to override the default setting.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Optional settings
+author: Phil Brady
+twitter_username: your_twitter_handle
+github_username:  your_github_handle
+
+# Build settings for GitHub Pages
+gems:
+  - jekyll-mentions
