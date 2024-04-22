@@ -1,4 +1,5 @@
 # Welcome to My Website
+![AmFam Group Logo](https://media.licdn.com/dms/image/sync/D5627AQE_VulykbIxeg/articleshare-shrink_800/0/1712072737510?e=2147483647&v=beta&t=rHOvMym_7IIl7fDclXTz6PqeVUjE4pyZZOUkeTujUjM)
 
 ## About Me
 
