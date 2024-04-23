@@ -24,8 +24,8 @@ exclude:
 
 # Optional settings
 author: Phil Brady
-twitter_username: your_twitter_handle
-github_username:  your_github_handle
+twitter_username: amfamphil
+github_username:  amfamphil
 
 # Build settings for GitHub Pages
 gems:
